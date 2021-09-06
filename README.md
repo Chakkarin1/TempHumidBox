@@ -1,4 +1,4 @@
-<h1>CPE405-HW1-61024304 TempHumidBoxx</h1>
+<h1>CPE405-HW1-61024304 TempHumidBox</h1>
 <p>ตัวกล่อง</p>
 <img src="photo/p1.PNG">
 <p>ฐานและรูน็อตยึดกำแพง จะตั้งไว้ที่ 90mm(ในกล่องกว้าง70mm) x 130mm ขอบกำแพงหน้า 5 mm รูน็อตขนาด 5 mm </p>
@@ -12,4 +12,19 @@
 <img src="photo/p6.PNG">
 <img src="photo/p8.PNG">
 <p>รู น็อตด้านใน ขนาด 2 mm ห่างขอบ 2.5 mm </p>
-<img src="photo/p7.PNG">
+<p>อ้างอิงขนาดอุปกรณ์</p>
+<p>DC</p>
+<img src="datasheet/DC.PNG">
+<p>DHT22</p>
+<img src="datasheet/DHT22.PNG">
+<p>led</p>
+<img src="datasheet/led.PNG">
+<p>node32</p>
+<img src="datasheet/node 32.PNG">
+<p>protoboard</p>
+<img src="datasheet/protoboard.PNG">
+<p>relay</p>
+<img src="datasheet/relay.PNG">
+<p>switch</p>
+<img src="datasheet/switch.PNG">
+
